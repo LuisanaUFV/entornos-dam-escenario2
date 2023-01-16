@@ -7,6 +7,8 @@ public class Ejemplo {
 
 		System.out.println("ADIOS mundo");
 		System.out.println("Mundo cruel");
+		System.out.println("Y pin pum");
+		
 		
 	}
 
